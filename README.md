@@ -49,6 +49,8 @@ With expertise in modern web frameworks, machine learning and IoT automation, I'
 📊 CGPA: **9.39/10** | 📅 Sep 2023 - May 2027 | 📍 Jodhpur, India
 
 ### Certifications
+<div align="center">
+  
 | Course | Institution | Date |
 |--------|------------|------|
 | **AI Concepts & Techniques** | IISc Bangalore | 2025 |
@@ -57,6 +59,7 @@ With expertise in modern web frameworks, machine learning and IoT automation, I'
 | **Innovation & Business Models** | IIT Roorkee | 2024 |
 | **Ethics in Engineering Practice** | IIT Kharagpur | 2024 |
 | **Intro to Programming in C** | IIT Kanpur | 2023 |
+</div>
 
 ---
 
