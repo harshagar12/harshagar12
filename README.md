@@ -8,9 +8,7 @@
 
 I'm a **3rd-year Computer Science student** at **JIET Jodhpur** (CGPA: **9.39**) with a passion for building **production-grade full-stack applications** and **AI-powered solutions**. 
 
-With expertise in modern web frameworks, machine learning, and IoT automation, I've successfully delivered **8+ production-style projects** and won **multiple hackathons**. I'm particularly interested in **Retrieval-Augmented Generation (RAG) pipelines**, **intelligent automation**, and **scalable system design**.
-
-Currently seeking a **4-month on-site internship (May-August 2026)** to contribute to impactful projects and collaborate with experienced engineers.
+With expertise in modern web frameworks, machine learning and IoT automation, I've successfully delivered **8+ production-style projects** and won **multiple hackathons**. I'm particularly interested in **Retrieval-Augmented Generation (RAG) pipelines**, **intelligent automation** and **scalable system design**.
 
 ---
 
@@ -20,7 +18,7 @@ Currently seeking a **4-month on-site internship (May-August 2026)** to contribu
 
 - **[Literate](https://github.com)** — AI-powered reading application with RAG pipeline for intelligent Q&A on custom documents
 - **[LitWise](https://github.com)** — ML-based book recommendation engine using K-Means clustering and TF-IDF
-- **[Unified AI Tools Hub](https://github.com)** — Multi-tool platform combining Photo Editor, Text-to-Speech, and video downloader
+- **[StudyMate](https://github.com)** — Centralized learning platform with context-aware answers directly from uploaded study materials.
 
 ### 👨‍💻 Open To Collaborate On:
 
@@ -31,15 +29,13 @@ Currently seeking a **4-month on-site internship (May-August 2026)** to contribu
 
 ### 📚 Currently Learning:
 
-- Advanced cloud computing (AWS, GCP) and infrastructure scaling
+- Advanced cloud computing and infrastructure scaling
 - Real-time AI integration with production systems
-- Microservices architecture and containerization
 - Advanced ML algorithms and deep learning frameworks
 
 ### ❓ Ask Me About:
 
 - Python automation and scripting
-- Telegram bot development & IoT systems (ESP32)
 - Full-stack web development (MERN, Next.js)
 - RAG pipelines and AI integration
 - Streamlit dashboards and data visualization
@@ -50,14 +46,14 @@ Currently seeking a **4-month on-site internship (May-August 2026)** to contribu
 
 ### Bachelor of Technology - Computer Science Engineering
 **Jodhpur Institute of Engineering and Technology (JIET)**  
-📊 CGPA: **9.39/10** | 📅 Sep 2023 - Jun 2027 | 📍 Jodhpur, India
+📊 CGPA: **9.39/10** | 📅 Sep 2023 - May 2027 | 📍 Jodhpur, India
 
 ### Certifications & Online Courses
 | Course | Institution | Date |
 |--------|------------|------|
-| **AI Concepts & Techniques** | IISc Bangalore | 2024 |
+| **AI Concepts & Techniques** | IISc Bangalore | 2025 |
+| **Design & Analysis of Algorithms** | CMI Chennai | 2025 |
 | **Database Management Systems** | IIT Kharagpur | 2024 |
-| **Design & Analysis of Algorithms** | CMI Chennai | 2024 |
 | **Innovation & Business Models** | IIT Roorkee | 2024 |
 | **Ethics in Engineering Practice** | IIT Kharagpur | 2024 |
 | **Intro to Programming in C** | IIT Kanpur | 2023 |
@@ -218,4 +214,251 @@ Platform for uploading, converting, and manipulating PDF files with real-time pr
 
 Integrated application combining Photo Editor, Text-to-Speech music generator, and YouTube video downloader.
 
-**Tech Stack:**
+**💻 Tech Stack:** React • TailwindCSS • Azure Cognitive Services • ImageKit • MongoDB
+
+---
+
+### **YouTube SideView - Chrome Extension**
+**Browser Extension | JavaScript | Content Enhancement**
+
+Chrome extension enhancing YouTube user experience with dual-pane interface featuring resizable side panels for video descriptions and comments.
+
+**🎯 Key Features:**
+- 🔀 Dual-pane interface for multitasking
+- 🔧 Resizable panels with saved preferences
+- 🔄 Content switching between descriptions/comments
+- ⚡ Lightweight and fast
+- 🎥 Seamless YouTube integration
+
+**💻 Tech Stack:** JavaScript • DOM Manipulation • Chrome Extension APIs • HTML/CSS
+
+---
+
+## 💼 Professional Experience
+
+### 📌 **Software Product Intern**
+**NearBux** | Jun 2024 - Aug 2024 (3 months) | Jodhpur, India
+
+Building a smart billing and universal loyalty platform for local businesses.
+
+**🔧 Responsibilities:**
+- Developed React-based frontend components for billing interface
+- Implemented backend features using Node.js and Express
+- Optimized database queries in PostgreSQL for improved performance
+- Participated in UI/UX design discussions using Figma
+- Contributed to production deployment and testing workflows
+- Collaborated with product and design teams on user-centric solutions
+
+**💻 Tech Stack:** React • Node.js • Express • PostgreSQL • Firebase • Figma • Git
+
+**📈 Impact:** Reduced page load time by 40% through optimization • Shipped 5+ features to production
+
+---
+
+## 🏆 Achievements & Awards
+
+### 🥈 **2nd Place - Multi-Institute Hackathon**
+Hackathon organized by MANIT, Modi University, and Thapar Institute | 2024
+
+Competed against 100+ teams and secured 2nd position with innovative project using full-stack development and AI integration.
+
+---
+
+### 🥇 **1st Place - College Ideathon (Smart India Hackathon)**
+JIET College Innovation Challenge | 2024
+
+Won 1st prize for proposing innovative solution addressing real-world problems using technology and design thinking.
+
+---
+
+### 🥈 **2nd Place - College Ideathon (Smart India Hackathon)**
+JIET College Innovation Challenge | 2024
+
+Achieved 2nd position in another ideathon round with unique problem-solving approach.
+
+---
+
+### 🎖️ **Top 6 - iStart Jodhpur Startup Pitching**
+LaunchPad Challenge | 2024
+
+Shortlisted among top 6 teams for startup pitching at iStart Jodhpur entrepreneurship event for business idea evaluation and investor feedback.
+
+---
+
+### 🎯 **Hack-ito Participant**
+Hack-ito Hackathon Series | 2023-2024
+
+Active participant in multiple rounds of Hack-ito hackathon, building innovative solutions and collaborating with peers.
+
+---
+
+### 🚀 **LaunchPad Challenge Finalist**
+LaunchPad Challenge | 2024
+
+Selected as finalist in LaunchPad Challenge 2024 for entrepreneurial ideas and startup potential.
+
+---
+
+### 💡 **Innovate 2025 Participant**
+Innovate 2025 Innovation Competition | 2025
+
+Participated in college-wide innovation competition showcasing technical projects and innovative ideas.
+
+---
+
+## 🎤 Extracurricular Activities
+
+### 🎙️ **Regular Event Anchor**
+**JIET College** | 2023 - Present
+
+- Host and anchor college institutional events, technical talks, and seminars
+- Develop presentation and public speaking skills
+- Lead discussions on emerging technologies and industry trends
+- Facilitate networking between students and professionals
+- **Events Hosted:** 15+ including technical workshops and recruitment drives
+
+### 💻 Secretary**
+**JIET Entrepreneurship and Startup Cell** | 2025 - Present
+
+- Contribute to club activities including workshops and tech talks
+- Conduct sessions and technical training
+- Share knowledge about emerging technologies
+- Organize contests and challenges
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshagar12&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+</div>
+
+<div align="center">
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagar12&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+<div align="center">
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshagar12&theme=midnight-purple&hide_border=true)
+
+</div>
+
+<div align="center">
+
+  ![GitHub Graph](https://activity-graph.herokuapp.com/graph?username=harshagar12&theme=midnight-purple&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=harshagar12&theme=midnight-purple&no-frame=true&no-bg=true)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+  **Let's collaborate! Feel free to reach out:**
+
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshagar122005@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-agarwal-a31b4528b)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshagar12)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/HarshAgar12)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshagar12)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://harshagar.dev)
+
+</div>
+
+---
+
+## 📖 How to Use My Repositories
+
+1. **Explore Projects** - Check out individual repositories for detailed documentation
+2. **Fork & Contribute** - Feel free to fork any project and submit pull requests
+3. **Report Issues** - Found a bug? Open an issue with detailed description
+4. **Suggest Features** - Have ideas? Share them in discussions or issues
+
+---
+
+## 🎯 Current Goals for 2026
+
+- ✅ Secure a top-tier internship (May-August 2026)
+- ✅ Get placed in a top Company
+- ✅ Complete 5+ AI/ML projects with production deployment
+- ✅ Contribute to open-source projects
+- ✅ Write technical blog posts (10+ articles)
+- ✅ Participate in international hackathons
+
+---
+
+## 💬 Quick Facts
+
+| Metric | Value |
+|--------|-------|
+| **Projects Built** | 10+ |
+| **Hackathons Won** | 5+ |
+| **CGPA** | 9.39/10 |
+| **Certifications** | 6+ |
+| **Years Coding** | 3+ |
+| **Languages** | 7+ |
+| **Frameworks** | 10+ |
+
+---
+
+## 🎓 Languages & Frameworks Summary
+
+| Category | Skills |
+|----------|--------|
+| **Frontend** | React, Next.js, TailwindCSS, Radix UI |
+| **Backend** | Node.js, Express, FastAPI, Flask |
+| **Databases** | MongoDB, MySQL, PostgreSQL, Firebase, Firestore |
+| **AI/ML** | TensorFlow, PyTorch, Scikit-learn, RAG Pipelines |
+| **IoT** | ESP32, Arduino, MicroPython |
+| **Cloud** | Firebase, Supabase, Azure, Vercel, Netlify |
+| **Tools** | Git, Docker, Figma, VS Code |
+| **Languages** | Python, JavaScript, TypeScript, Java, C |
+
+---
+
+## 💡 Tech Interests
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Full-Stack Web Development
+- ☁️ Cloud Computing & Scalability
+- 🔐 Cybersecurity & Best Practices
+- 📱 Mobile & Progressive Web Apps
+- 🏗️ System Design & Architecture
+- 📊 Data Science & Analytics
+
+---
+
+## 📝 License
+
+Most of my projects are open source. Check individual repositories for specific licenses.
+
+---
+
+## ✨ Random Dev Quote
+
+> "The best code is the code you write today that you can understand six months from now." - Unknown
+
+---
+
+<div align="center">
+
+### 👋 Thank you for visiting my profile!
+
+Feel free to star ⭐ any project you find interesting and follow for more updates.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=harshagar12&style=flat-square&
