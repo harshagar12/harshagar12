@@ -180,7 +180,7 @@ Centralized learning platform with AI-powered tutor providing context-aware answ
 
 ---
 
-### [BlogWave - Full-Stack Blogging Platform](https://github.com)
+### ⭐ [BlogWave - Full-Stack Blogging Platform](https://github.com)
 **Full-Stack Web Development | Community Platform**
 
 Complete blogging solution with user authentication, content management, and community engagement features.
@@ -189,7 +189,7 @@ Complete blogging solution with user authentication, content management, and com
 
 ---
 
-### [Telegram Home Automation System](https://github.com)
+### ⭐ [Telegram Home Automation System](https://github.com)
 **IoT | ESP32 | Real-time Automation**
 
 Smart home controller using ESP32 and Telegram bot for remote device management with real-time status updates and motion detection.
@@ -200,7 +200,7 @@ Smart home controller using ESP32 and Telegram bot for remote device management 
 
 ---
 
-### [DocWeave - PDF Processing Platform](https://github.com)
+### ⭐ [DocWeave - PDF Processing Platform](https://github.com)
 **Full-Stack | Document Processing | Real-time Preview**
 
 Platform for uploading, converting, and manipulating PDF files with real-time preview capabilities.
@@ -209,7 +209,7 @@ Platform for uploading, converting, and manipulating PDF files with real-time pr
 
 ---
 
-### [Unified AI Tools Hub](https://github.com)
+### ⭐ [Unified AI Tools Hub](https://github.com)
 **Multi-Tool Platform | AI Integration | Web App**
 
 Integrated application combining Photo Editor, Text-to-Speech music generator, and YouTube video downloader.
@@ -218,7 +218,7 @@ Integrated application combining Photo Editor, Text-to-Speech music generator, a
 
 ---
 
-### **YouTube SideView - Chrome Extension**
+### ⭐ [YouTube SideView - Chrome Extension](https://github.com)
 **Browser Extension | JavaScript | Content Enhancement**
 
 Chrome extension enhancing YouTube user experience with dual-pane interface featuring resizable side panels for video descriptions and comments.
@@ -461,4 +461,58 @@ Most of my projects are open source. Check individual repositories for specific 
 
 Feel free to star ⭐ any project you find interesting and follow for more updates.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=harshagar12&style=flat-square&
+[![Profile Views](https://komarev.com/ghpvc/?username=harshagar12&style=flat-square&color=00d9ff)](https://github.com/harshagar12)
+
+**Made with ❤️ by Harsh Agarwal**
+
+</div>
+
+---
+
+## 🎯 Next Steps
+
+**Want to collaborate or chat?**
+- 📧 Email: harshagar122005@gmail.com
+- 💼 LinkedIn: [Harsh Agarwal](https://linkedin.com/in/harsh-agarwal-a31b4528b)
+- 🐙 GitHub: [@harshagar12](https://github.com/harshagar12)
+- 🐦 Twitter: [@HarshAgar12](https://x.com/HarshAgar12)
+
+---
+
+## 📦 Popular Repositories
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=literate&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/literate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=litwise&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/litwise)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=studymate&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/studymate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=blogwave&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/blogwave)
+
+</div>
+
+---
+
+## 🌟 Support
+
+If you find my projects helpful, consider:
+- ⭐ **Starring** repositories you like
+- 🔗 **Sharing** with your network
+- 💬 **Contributing** to projects
+- 📧 **Reaching out** for collaborations
+
+---
+
+## 📋 README Statistics
+
+- **Last Updated:** January 19, 2026
+- **Total Projects:** 10+
+- **Hackathons Won:** 5+
+- **Certifications:** 6 Certificates
+- **Contributions:** Active in multiple organizations
+
+---
+
+**Built with passion for technology and innovation** 🚀
+
+---
