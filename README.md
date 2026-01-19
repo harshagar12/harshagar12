@@ -451,10 +451,10 @@ Feel free to star ⭐ any project you find interesting and follow for more updat
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=literate&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/Literate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=litwise&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/LitWise)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=Literate&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/Literate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=LitWise&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/LitWise)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=studymate&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/StudyMate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=StudyMate&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/StudyMate)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=AI-Tools-Hub&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/AI-Tools-Hub)
 
 </div>
