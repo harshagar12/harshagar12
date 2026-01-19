@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **3rd-year Computer Science student** at **JIET Jodhpur** (CGPA: **9.39**) with a passion for building **production-grade full-stack applications** and **AI-powered solutions**. 
+I'm a **3rd year Computer Science student** at **JIET Jodhpur** (CGPA: **9.39**) with a passion for building **production grade full-stack applications** and **AI-powered solutions**. 
 
 With expertise in modern web frameworks, machine learning and IoT automation, I've successfully delivered **8+ production-style projects** and won **multiple hackathons**. I'm particularly interested in **Retrieval-Augmented Generation (RAG) pipelines**, **intelligent automation** and **scalable system design**.
 
@@ -16,39 +16,39 @@ With expertise in modern web frameworks, machine learning and IoT automation, I'
 
 ### 🔨 Working On:
 
-- **[Literate](https://github.com)** — AI-powered reading application with RAG pipeline for intelligent Q&A on custom documents
-- **[LitWise](https://github.com)** — ML-based book recommendation engine using K-Means clustering and TF-IDF
-- **[StudyMate](https://github.com)** — Centralized learning platform with context-aware answers directly from uploaded study materials.
+- **[Literate](https://github.com/harshagar12/Literate)** — AI-powered reading application with RAG pipeline for intelligent Q&A on custom documents
+- **[LitWise](https://github.com/harshagar12/LitWise)** — ML-based book recommendation engine using K-Means clustering and TF-IDF
+- **[StudyMate](https://github.com/harshagar12/StudyMate)** — Centralized learning platform with context-aware answers directly from uploaded study materials.
 
 ### 👨‍💻 Open To Collaborate On:
 
-- 🌐 Full-stack web development ventures with modern frameworks
+- 🌐 Full stack web development ventures with modern frameworks
 - 🤖 AI/ML solutions (NLP, computer vision, intelligent automation)
-- ☁️ Cloud-native and scalable system design
-- 🔐 Security-focused applications
+- ☁️ Cloud native and scalable system design
+- 🔐 Security focused applications
 
 ### 📚 Currently Learning:
 
 - Advanced cloud computing and infrastructure scaling
-- Real-time AI integration with production systems
+- Real time AI integration with production systems
 - Advanced ML algorithms and deep learning frameworks
 
 ### ❓ Ask Me About:
 
 - Python automation and scripting
-- Full-stack web development (MERN, Next.js)
+- Full stack web development (MERN, Next.js)
 - RAG pipelines and AI integration
 - Streamlit dashboards and data visualization
 
 ---
 
-## 🎓 Education & Credentials
+## 🎓 Education
 
-### Bachelor of Technology - Computer Science Engineering
+### B.Tech - Computer Science Engineering
 **Jodhpur Institute of Engineering and Technology (JIET)**  
 📊 CGPA: **9.39/10** | 📅 Sep 2023 - May 2027 | 📍 Jodhpur, India
 
-### Certifications & Online Courses
+### Certifications
 | Course | Institution | Date |
 |--------|------------|------|
 | **AI Concepts & Techniques** | IISc Bangalore | 2025 |
@@ -124,22 +124,22 @@ With expertise in modern web frameworks, machine learning and IoT automation, I'
 
 ### **Specialized Skills**
 - **AI/ML**: RAG Pipelines, Machine Learning Algorithms, NLP, Computer Vision
-- **Web Architecture**: RESTful APIs, Real-time Applications, Microservices
+- **Web Architecture**: RESTful APIs, Real time Applications, Microservices
 - **Security**: JWT Authentication, Data Encryption, API Security
-- **IoT**: Smart Home Automation, Real-time Device Control, Sensor Integration
+- **IoT**: Smart Home Automation, Real time Device Control, Sensor Integration
 
 ---
 
 ## 🏆 Featured Projects
 
-### ⭐ [Literate - AI Reading Assistant](https://github.com)
-**Retrieval-Augmented Generation | Full-Stack | AI Integration**
+### ⭐ [Literate - AI Reading Assistant](https://github.com/harshagar12/Literate)
+**Retrieval-Augmented Generation | Full Stack | AI Integration**
 
-An intelligent reading application enabling users to upload books and interact with context-aware AI assistant using advanced RAG pipelines.
+An intelligent reading application enabling users to upload books and interact with context aware AI assistant using advanced RAG pipelines.
 
 **Key Features:**
 - 📚 Book upload and library management
-- 🤖 Context-aware Q&A powered by Google Genkit
+- 🤖 Context aware Q&A powered by Google Genkit
 - 💾 RAG pipeline for accurate document retrieval
 - 🔒 Secure user authentication and data persistence
 - 📱 Responsive design across all devices
@@ -148,31 +148,15 @@ An intelligent reading application enabling users to upload books and interact w
 
 ---
 
-### ⭐ [LitWise - ML Book Recommendation Engine](https://github.com)
-**Machine Learning | Data Science | Recommendation Systems**
+### ⭐ [StudyMate - AI Learning Companion](https://github.com/harshagar12/StudyMate)
+**Full Stack | AI Tutor | Education Tech**
 
-Intelligent book recommendation platform using advanced ML algorithms and the Goodreads dataset to suggest personalized reading.
-
-**Key Features:**
-- 🎯 K-Means clustering for user segmentation
-- 📊 TF-IDF cosine similarity for accurate recommendations
-- 📈 Real-time recommendation engine
-- 🎨 Modern, intuitive UI
-- 📚 Integration with Goodreads dataset
-
-**Tech Stack:** Next.js • FastAPI • Python • Scikit-learn • MongoDB
-
----
-
-### ⭐ [StudyMate - AI Learning Companion](https://github.com)
-**Full-Stack | AI Tutor | Education Tech**
-
-Centralized learning platform with AI-powered tutor providing context-aware answers directly from uploaded study materials.
+Centralized learning platform with AI powered tutor providing context aware answers directly from uploaded study materials.
 
 **Key Features:**
-- 📖 Subject-based material organization
+- 📖 Subject based material organization
 - 🤖 AI tutor powered by Gemini API
-- ❓ Context-aware Q&A from documents
+- ❓ Context aware Q&A from documents
 - 👥 Collaborative study features
 - 📊 Learning progress tracking
 
@@ -180,51 +164,56 @@ Centralized learning platform with AI-powered tutor providing context-aware answ
 
 ---
 
-### ⭐ [BlogWave - Full-Stack Blogging Platform](https://github.com)
-**Full-Stack Web Development | Community Platform**
+### ⭐ [LitWise - ML Book Recommendation Engine](https://github.com/harshagar12/LitWise)
+**Machine Learning | Data Science | Recommendation Systems**
 
-Complete blogging solution with user authentication, content management, and community engagement features.
+Intelligent book recommendation platform using advanced ML algorithms and the Goodreads dataset to suggest personalized reading.
 
-**Tech Stack:** Node.js • Express.js • MySQL • Multer • EJS • TailwindCSS
+**Key Features:**
+- 🎯 K-Means clustering for user segmentation
+- 📊 TF-IDF cosine similarity for accurate recommendations
+- 📈 Real time recommendation engine
+- 🎨 Modern, intuitive UI
+- 📚 Integration with Goodreads dataset
 
----
-
-### ⭐ [Telegram Home Automation System](https://github.com)
-**IoT | ESP32 | Real-time Automation**
-
-Smart home controller using ESP32 and Telegram bot for remote device management with real-time status updates and motion detection.
-
-**Features:** Remote light/fan control • Motion detection • Real-time monitoring • Secure authentication
-
-**Tech Stack:** MicroPython • ESP32 • Telegram Bot API • IoT Protocols
+**Tech Stack:** Next.js • FastAPI • Python • Scikit-learn • MongoDB
 
 ---
 
-### ⭐ [DocWeave - PDF Processing Platform](https://github.com)
-**Full-Stack | Document Processing | Real-time Preview**
+### ⭐ [DocWeave - PDF Processing Platform](https://github.com/harshagar12/DocWeave)
+**Full Stack | Document Processing | Real time Preview**
 
-Platform for uploading, converting, and manipulating PDF files with real-time preview capabilities.
+Platform for uploading, converting and manipulating PDF files with real time preview capabilities.
 
 **Tech Stack:** React • FastAPI • Python • PDF.js • TailwindCSS
 
 ---
 
-### ⭐ [Unified AI Tools Hub](https://github.com)
-**Multi-Tool Platform | AI Integration | Web App**
+### ⭐ [BlogWave - Full Stack Blogging Platform](https://github.com/harshagar12/blog_wave)
+**Full Stack Web Development | Community Platform**
 
-Integrated application combining Photo Editor, Text-to-Speech music generator, and YouTube video downloader.
+Complete blogging solution with user authentication, content management and community engagement features.
+
+**Tech Stack:** Node.js • Express.js • MySQL • Multer • EJS • TailwindCSS
+
+---
+
+### ⭐ [Unified AI Tools Hub](https://github.com/harshagar12/AI-Tools-Hub)
+**Multi Tool Platform | AI Integration | Web App**
+
+Integrated application combining Photo Editor, Text-to-Speech music generator  and YouTube video downloader.
 
 **💻 Tech Stack:** React • TailwindCSS • Azure Cognitive Services • ImageKit • MongoDB
 
 ---
 
-### ⭐ [YouTube SideView - Chrome Extension](https://github.com)
+### ⭐ YouTube SideView - Chrome Extension
 **Browser Extension | JavaScript | Content Enhancement**
 
-Chrome extension enhancing YouTube user experience with dual-pane interface featuring resizable side panels for video descriptions and comments.
+Chrome extension enhancing YouTube user experience with dual pane interface featuring resizable side panels for video descriptions and comments.
 
 **🎯 Key Features:**
-- 🔀 Dual-pane interface for multitasking
+- 🔀 Dual pane interface for multitasking
 - 🔧 Resizable panels with saved preferences
 - 🔄 Content switching between descriptions/comments
 - ⚡ Lightweight and fast
@@ -242,12 +231,12 @@ Chrome extension enhancing YouTube user experience with dual-pane interface feat
 Building a smart billing and universal loyalty platform for local businesses.
 
 **🔧 Responsibilities:**
-- Developed React-based frontend components for billing interface
+- Developed React based frontend components for billing interface
 - Implemented backend features using Node.js and Express
 - Optimized database queries in PostgreSQL for improved performance
 - Participated in UI/UX design discussions using Figma
 - Contributed to production deployment and testing workflows
-- Collaborated with product and design teams on user-centric solutions
+- Collaborated with product and design teams on user centric solutions
 
 **💻 Tech Stack:** React • Node.js • Express • PostgreSQL • Firebase • Figma • Git
 
@@ -257,24 +246,25 @@ Building a smart billing and universal loyalty platform for local businesses.
 
 ## 🏆 Achievements & Awards
 
-### 🥈 **2nd Place - Multi-Institute Hackathon**
-Hackathon organized by MANIT, Modi University, and Thapar Institute | 2024
+### 💡 **Innovate 2025 Runner's Up (Multi Institute Hackathon)**
+Innovate 2025 Innovation Competition | 2025
 
-Competed against 100+ teams and secured 2nd position with innovative project using full-stack development and AI integration.
-
----
-
-### 🥇 **1st Place - College Ideathon (Smart India Hackathon)**
-JIET College Innovation Challenge | 2024
-
-Won 1st prize for proposing innovative solution addressing real-world problems using technology and design thinking.
+Hackathon organized by MANIT, Modi University and Thapar Institute | 2024
+Competed against 100+ teams and secured 2nd position with innovative project using full stack development and AI integration.
 
 ---
 
-### 🥈 **2nd Place - College Ideathon (Smart India Hackathon)**
+### 🥇 **1st Place - Hack-ito (College Ideathon for Smart India Hackathon)**
+JIET College Innovation Challenge | 2023
+
+Won 1st prize for proposing innovative solution addressing real world problems using technology and design thinking.
+
+---
+
+### 🥈 **2nd Place - Hack-ito (College Ideathon for Smart India Hackathon)**
 JIET College Innovation Challenge | 2024
 
-Achieved 2nd position in another ideathon round with unique problem-solving approach.
+Achieved 2nd position in another ideathon round with unique problem solving approach.
 
 ---
 
@@ -285,39 +275,18 @@ Shortlisted among top 6 teams for startup pitching at iStart Jodhpur entrepreneu
 
 ---
 
-### 🎯 **Hack-ito Participant**
-Hack-ito Hackathon Series | 2023-2024
-
-Active participant in multiple rounds of Hack-ito hackathon, building innovative solutions and collaborating with peers.
-
----
-
-### 🚀 **LaunchPad Challenge Finalist**
-LaunchPad Challenge | 2024
-
-Selected as finalist in LaunchPad Challenge 2024 for entrepreneurial ideas and startup potential.
-
----
-
-### 💡 **Innovate 2025 Participant**
-Innovate 2025 Innovation Competition | 2025
-
-Participated in college-wide innovation competition showcasing technical projects and innovative ideas.
-
----
-
 ## 🎤 Extracurricular Activities
 
 ### 🎙️ **Regular Event Anchor**
 **JIET College** | 2023 - Present
 
-- Host and anchor college institutional events, technical talks, and seminars
+- Host and anchor college institutional events, technical talks and seminars
 - Develop presentation and public speaking skills
 - Lead discussions on emerging technologies and industry trends
 - Facilitate networking between students and professionals
-- **Events Hosted:** 15+ including technical workshops and recruitment drives
+- **Events Hosted:** 15+ including technical workshops
 
-### 💻 Secretary**
+### 💻 **Secretary**
 **JIET Entrepreneurship and Startup Cell** | 2025 - Present
 
 - Contribute to club activities including workshops and tech talks
@@ -330,12 +299,6 @@ Participated in college-wide innovation competition showcasing technical project
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshagar12&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-</div>
-
-<div align="center">
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagar12&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8)
 
@@ -343,7 +306,7 @@ Participated in college-wide innovation competition showcasing technical project
 
 <div align="center">
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshagar12&theme=midnight-purple&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=harshagar12&theme=midnight-purple&hide_border=true)
 
 </div>
 
@@ -372,11 +335,11 @@ Participated in college-wide innovation competition showcasing technical project
   **Let's collaborate! Feel free to reach out:**
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshagar122005@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-agarwal-a31b4528b)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshagar2005)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshagar12)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/HarshAgar12)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshagar12)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://harshagar.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://harsh-agar-portfolio.vercel.app/)
 
 </div>
 
@@ -393,10 +356,10 @@ Participated in college-wide innovation competition showcasing technical project
 
 ## 🎯 Current Goals for 2026
 
-- ✅ Secure a top-tier internship (May-August 2026)
+- ✅ Secure a top tier internship (May-August 2026)
 - ✅ Get placed in a top Company
 - ✅ Complete 5+ AI/ML projects with production deployment
-- ✅ Contribute to open-source projects
+- ✅ Contribute to open source projects
 - ✅ Write technical blog posts (10+ articles)
 - ✅ Participate in international hackathons
 
@@ -404,6 +367,8 @@ Participated in college-wide innovation competition showcasing technical project
 
 ## 💬 Quick Facts
 
+<div align="center">
+  
 | Metric | Value |
 |--------|-------|
 | **Projects Built** | 10+ |
@@ -413,11 +378,15 @@ Participated in college-wide innovation competition showcasing technical project
 | **Years Coding** | 3+ |
 | **Languages** | 7+ |
 | **Frameworks** | 10+ |
+  
+</div>
 
 ---
 
 ## 🎓 Languages & Frameworks Summary
 
+<div align="center">
+  
 | Category | Skills |
 |----------|--------|
 | **Frontend** | React, Next.js, TailwindCSS, Radix UI |
@@ -428,13 +397,15 @@ Participated in college-wide innovation competition showcasing technical project
 | **Cloud** | Firebase, Supabase, Azure, Vercel, Netlify |
 | **Tools** | Git, Docker, Figma, VS Code |
 | **Languages** | Python, JavaScript, TypeScript, Java, C |
+  
+</div>
 
 ---
 
 ## 💡 Tech Interests
 
 - 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Full-Stack Web Development
+- 🌐 Full Stack Web Development
 - ☁️ Cloud Computing & Scalability
 - 🔐 Cybersecurity & Best Practices
 - 📱 Mobile & Progressive Web Apps
@@ -443,13 +414,7 @@ Participated in college-wide innovation competition showcasing technical project
 
 ---
 
-## 📝 License
-
-Most of my projects are open source. Check individual repositories for specific licenses.
-
----
-
-## ✨ Random Dev Quote
+## ✨ Random Quote
 
 > "The best code is the code you write today that you can understand six months from now." - Unknown
 
@@ -473,7 +438,7 @@ Feel free to star ⭐ any project you find interesting and follow for more updat
 
 **Want to collaborate or chat?**
 - 📧 Email: harshagar122005@gmail.com
-- 💼 LinkedIn: [Harsh Agarwal](https://linkedin.com/in/harsh-agarwal-a31b4528b)
+- 💼 LinkedIn: [Harsh Agarwal](https://linkedin.com/in/harshagar2005)
 - 🐙 GitHub: [@harshagar12](https://github.com/harshagar12)
 - 🐦 Twitter: [@HarshAgar12](https://x.com/HarshAgar12)
 
@@ -483,11 +448,11 @@ Feel free to star ⭐ any project you find interesting and follow for more updat
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=literate&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/literate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=litwise&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/litwise)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=literate&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/Literate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=litwise&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/LitWise)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=studymate&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/studymate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=blogwave&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/blogwave)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=studymate&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/StudyMate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshagar12&repo=AI-Tools-Hub&theme=midnight-purple&hide_border=true)](https://github.com/harshagar12/AI-Tools-Hub)
 
 </div>
 
